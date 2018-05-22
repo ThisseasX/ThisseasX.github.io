@@ -1,3 +1,5 @@
+<h1 style="font-size: 22px; text-align: center;">Android Development Tips</h1>
+
 # Runtime Permission Check
 
 Σήμερα θα μιλήσουμε για τις άδειες που ζητάει ένας Android Developer από τον χρήστη, για να αξιοποιήσει λειτουργίες της συσκευής του.
