@@ -177,10 +177,3 @@ public void onRequestPermissionsResult(int requestCode, @NonNull String[] permis
 <br>
 
 ‐ Θησέας Ξανθόπουλος  
-
-## Blog Posts
-
-{% for post in site.posts %}
-- [{{ post.title }}]({{ post.url }})
-{% endfor %}
-
