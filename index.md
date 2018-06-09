@@ -170,7 +170,7 @@ public void onRequestPermissionsResult(int requestCode, @NonNull String[] permis
 
 Ελπίζω να βρήκατε αυτήν την ανάρτηση ενδιαφέρουσα, και να συνεχίσετε να γράφετε καλοσχεδιασμένες εφαρμογές!
 
-Το δείγμα εφαρμογής θα το βρείτε το [GitHub](https://github.com/ThisseasX/PermissionSamples).
+Το δείγμα εφαρμογής θα το βρείτε στο [GitHub](https://github.com/ThisseasX/PermissionSamples).
 
 Εάν δεν είστε ακόμα Android Developers, μπορείτε τώρα να γίνετε με το εξ αποστάσεως πρόγραμμα μας στην [KORELKO Distance](http://korelkodistance.gr/).
 
