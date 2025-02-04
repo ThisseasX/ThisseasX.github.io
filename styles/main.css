@@ -1,3 +1,9 @@
+:root {
+  @media only print, only screen and (max-width: calc(210mm + 8px)) {
+    overflow: hidden;
+  }
+}
+
 .root {
   display: grid;
   grid-template-columns: 240px 1fr;
@@ -171,7 +177,7 @@
 
 .history-block__subtitle {
   font-style: italic;
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 }
 
 .history-block__content {
